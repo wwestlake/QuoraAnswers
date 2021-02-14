@@ -1,0 +1,13 @@
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.csprojAssemblyReference.cache
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.AssemblyInfoInputs.cache
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.AssemblyInfo.cs
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.csproj.CoreCompileInputs.cache
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file.deps.json
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file.runtimeconfig.json
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file.runtimeconfig.dev.json
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file.dll
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/bin/Debug/netcoreapp3.1/rand_from_file.pdb
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.dll
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.pdb
+/home/wwestlake/devel/quora/c_sharp/rand_from_file/obj/Debug/netcoreapp3.1/rand_from_file.genruntimeconfig.cache
